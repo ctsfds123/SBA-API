@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\bin\Debug\netstandard1.4\DataLayer.deps.json
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\bin\Debug\netstandard1.4\DataLayer.dll
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\bin\Debug\netstandard1.4\DataLayer.pdb
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\obj\Debug\netstandard1.4\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\obj\Debug\netstandard1.4\DataLayer.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\obj\Debug\netstandard1.4\DataLayer.dll
+C:\Users\Admin\Desktop\ProjectManagerService\DataLayer\obj\Debug\netstandard1.4\DataLayer.pdb
