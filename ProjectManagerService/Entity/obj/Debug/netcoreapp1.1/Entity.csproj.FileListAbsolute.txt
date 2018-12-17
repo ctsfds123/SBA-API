@@ -1,3 +1,0 @@
-C:\Users\Admin\Desktop\ProjectManagerService\Entity\bin\Debug\netcoreapp1.1\Entity.deps.json
-C:\Users\Admin\Desktop\ProjectManagerService\Entity\obj\Debug\netcoreapp1.1\Entity.csprojResolveAssemblyReference.cache
-C:\Users\Admin\Desktop\ProjectManagerService\Entity\obj\Debug\netcoreapp1.1\Entity.AssemblyInfo.cs

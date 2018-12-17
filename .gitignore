@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectManagement/v15/Server/sqlite3
+/bin/Debug
+/packages
+/ProjectManagement.Business/obj/Debug
+/ProjectManagement.Business/bin/Debug
+*.pdb
+*.pdb
+*.dll
+*.cache
+*.txt
+*.user
+*.pubxml

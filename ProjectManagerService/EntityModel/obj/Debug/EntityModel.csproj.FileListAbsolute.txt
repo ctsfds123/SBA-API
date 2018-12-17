@@ -1,4 +1,0 @@
-C:\Users\Admin\Desktop\ProjectManagerService\EntityModel\bin\Debug\EntityModel.dll
-C:\Users\Admin\Desktop\ProjectManagerService\EntityModel\bin\Debug\EntityModel.pdb
-C:\Users\Admin\Desktop\ProjectManagerService\EntityModel\obj\Debug\EntityModel.dll
-C:\Users\Admin\Desktop\ProjectManagerService\EntityModel\obj\Debug\EntityModel.pdb
